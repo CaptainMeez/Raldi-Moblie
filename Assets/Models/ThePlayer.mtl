@@ -1,0 +1,39 @@
+# Created with Anim8or 1.00
+# Object "StudentG":
+
+newmtl Shirt
+Ka 0.486 0.851 0.588
+Kd 0.486 0.851 0.588
+Ks 1 1 1
+Ns 752.6
+
+newmtl Skin
+Ka 1 0.898 0.608
+Kd 1 0.898 0.608
+Ks 1 1 1
+Ns 752.6
+
+newmtl Eye
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 752.6
+
+newmtl Pupil
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 752.6
+
+newmtl Hair
+Ka 0.275 0.137 0.0706
+Kd 0.275 0.137 0.0706
+Ks 1 1 1
+Ns 752.6
+
+newmtl Mouth
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 752.6
+

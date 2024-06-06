@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "Neil",
+        "sentence": "Fuck.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "Off.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "You got a HAMMER.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "You don't know this person.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

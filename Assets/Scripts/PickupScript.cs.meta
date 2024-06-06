@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 32412ad967028d3458a2f665da9c59d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - bca: {instanceID: 0}
+  - audiodevice: {instanceID: 0}
+  - respawn: {instanceID: 0}
+  - gc: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

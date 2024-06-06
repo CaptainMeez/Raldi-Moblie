@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "????",
+        "sentence": "Raldi... that lying bitch... all he wants to fucking do is decieve you into believing his STUPID lies.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "????",
+        "sentence": "You're not too far in yet... you can still get out of this...",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "$neilKeysLeft$ keys left.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

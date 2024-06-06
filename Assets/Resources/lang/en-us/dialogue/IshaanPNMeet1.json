@@ -1,0 +1,74 @@
+{
+  "sentences": [
+      {
+        "character": "Ishaan",
+        "sentence": "hey kid",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "i'm just packing up shop.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "do you want a potato",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "well too bad i ate them all",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "we get new stock tomorrow, if you wanna come by.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "HEY WHATS UP FUCKERS!",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "oh boy. here comes my brother again.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

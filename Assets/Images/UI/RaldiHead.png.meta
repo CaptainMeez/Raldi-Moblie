@@ -1,0 +1,3632 @@
+fileFormatVersion: 2
+guid: d67ddd413394f0f4187228b995ae480c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7174973042899144924
+    second: BaldiHead_0
+  - first:
+      213: -3123509736011633294
+    second: BaldiHead_1
+  - first:
+      213: 7905163925723145926
+    second: BaldiHead_2
+  - first:
+      213: 776523008308633318
+    second: BaldiHead_3
+  - first:
+      213: -5617525376129962110
+    second: BaldiHead_4
+  - first:
+      213: -2995028751058263047
+    second: BaldiHead_5
+  - first:
+      213: -340636272194619012
+    second: BaldiHead_6
+  - first:
+      213: -6766468104485142848
+    second: BaldiHead_7
+  - first:
+      213: 9187297277334362842
+    second: BaldiHead_8
+  - first:
+      213: -5059486125348145083
+    second: BaldiHead_9
+  - first:
+      213: 8533347098085021233
+    second: BaldiHead_10
+  - first:
+      213: -8920225294589281123
+    second: BaldiHead_11
+  - first:
+      213: 704038566920032308
+    second: BaldiHead_12
+  - first:
+      213: -758860496914426830
+    second: BaldiHead_13
+  - first:
+      213: -7580598027333860461
+    second: BaldiHead_14
+  - first:
+      213: -5948381495881098011
+    second: BaldiHead_15
+  - first:
+      213: 4657302078598923386
+    second: BaldiHead_16
+  - first:
+      213: -4152569111653551272
+    second: BaldiHead_17
+  - first:
+      213: 2980962803641729440
+    second: BaldiHead_18
+  - first:
+      213: 5366494039256789301
+    second: BaldiHead_19
+  - first:
+      213: 2274343848700121619
+    second: BaldiHead_20
+  - first:
+      213: -7205348838169856539
+    second: BaldiHead_21
+  - first:
+      213: 5202064224741378324
+    second: BaldiHead_22
+  - first:
+      213: -6696191238870758593
+    second: BaldiHead_23
+  - first:
+      213: 76485355658485075
+    second: BaldiHead_24
+  - first:
+      213: -5212912765653821511
+    second: BaldiHead_25
+  - first:
+      213: 2951113126198966424
+    second: BaldiHead_26
+  - first:
+      213: -5350443638656639102
+    second: BaldiHead_27
+  - first:
+      213: -81107356339199821
+    second: BaldiHead_28
+  - first:
+      213: -6150242603397613390
+    second: BaldiHead_29
+  - first:
+      213: 941919758719813489
+    second: BaldiHead_30
+  - first:
+      213: 8983453328844790937
+    second: BaldiHead_31
+  - first:
+      213: 114366117715406270
+    second: BaldiHead_32
+  - first:
+      213: 576443421666778468
+    second: BaldiHead_33
+  - first:
+      213: 6954951741242890577
+    second: BaldiHead_34
+  - first:
+      213: -102751561264884970
+    second: BaldiHead_35
+  - first:
+      213: 1150410372006443906
+    second: BaldiHead_36
+  - first:
+      213: -8344894591575165984
+    second: BaldiHead_37
+  - first:
+      213: 1254501768723495549
+    second: BaldiHead_38
+  - first:
+      213: 426524464373752193
+    second: BaldiHead_39
+  - first:
+      213: -5246865829148544688
+    second: BaldiHead_40
+  - first:
+      213: 8235843287168971971
+    second: BaldiHead_41
+  - first:
+      213: -8366610161010537945
+    second: BaldiHead_42
+  - first:
+      213: 2614637654360242945
+    second: BaldiHead_43
+  - first:
+      213: -8800035588824222870
+    second: BaldiHead_44
+  - first:
+      213: -2810093232588092997
+    second: BaldiHead_45
+  - first:
+      213: -6396573235558508459
+    second: BaldiHead_46
+  - first:
+      213: 1598676700885363298
+    second: BaldiHead_47
+  - first:
+      213: 3507339083478454051
+    second: BaldiHead_48
+  - first:
+      213: -657624127521597158
+    second: BaldiHead_49
+  - first:
+      213: 5525709326612498984
+    second: BaldiHead_50
+  - first:
+      213: -3859995437141487788
+    second: BaldiHead_51
+  - first:
+      213: -1585830028477009088
+    second: BaldiHead_52
+  - first:
+      213: 7834886658614742538
+    second: BaldiHead_53
+  - first:
+      213: 4002613139246105547
+    second: BaldiHead_54
+  - first:
+      213: 8136507454208731113
+    second: BaldiHead_55
+  - first:
+      213: -7540913393000866931
+    second: BaldiHead_56
+  - first:
+      213: 3235308414036887458
+    second: BaldiHead_57
+  - first:
+      213: -3604444200831796596
+    second: BaldiHead_58
+  - first:
+      213: 4882153215541207877
+    second: BaldiHead_59
+  - first:
+      213: 4362487473930170856
+    second: BaldiHead_60
+  - first:
+      213: -885877831999019322
+    second: BaldiHead_61
+  - first:
+      213: -4293405500008826530
+    second: BaldiHead_62
+  - first:
+      213: -1032834901424759668
+    second: BaldiHead_63
+  - first:
+      213: -1898610325891317565
+    second: BaldiHead_64
+  - first:
+      213: -8195070383440189846
+    second: BaldiHead_65
+  - first:
+      213: -5605764196753093107
+    second: BaldiHead_66
+  - first:
+      213: -5161585688931414585
+    second: BaldiHead_67
+  - first:
+      213: -880163464064289670
+    second: BaldiHead_68
+  - first:
+      213: -4077846733484315526
+    second: BaldiHead_69
+  - first:
+      213: 5382618301736207433
+    second: BaldiHead_70
+  - first:
+      213: 7792176030264908501
+    second: BaldiHead_71
+  - first:
+      213: 6319614950173246280
+    second: BaldiHead_72
+  - first:
+      213: 2969301160838636306
+    second: BaldiHead_73
+  - first:
+      213: -1067140524001606025
+    second: BaldiHead_74
+  - first:
+      213: 8978771042093032090
+    second: BaldiHead_75
+  - first:
+      213: -5008927239333635171
+    second: BaldiHead_76
+  - first:
+      213: 5260475353298109303
+    second: BaldiHead_77
+  - first:
+      213: 231150595046521010
+    second: BaldiHead_78
+  - first:
+      213: -1292370799596422114
+    second: BaldiHead_79
+  - first:
+      213: -361871593346619598
+    second: BaldiHead_80
+  - first:
+      213: 5746893697050568359
+    second: BaldiHead_81
+  - first:
+      213: 9155422653382654943
+    second: BaldiHead_82
+  - first:
+      213: -3846497512065103345
+    second: BaldiHead_83
+  - first:
+      213: -1904543026483808727
+    second: BaldiHead_84
+  - first:
+      213: 8284571943703625397
+    second: BaldiHead_85
+  - first:
+      213: 5850009447316119068
+    second: BaldiHead_86
+  - first:
+      213: 70958363861151934
+    second: BaldiHead_87
+  - first:
+      213: -3751690291623481874
+    second: BaldiHead_88
+  - first:
+      213: 2681442246658374879
+    second: BaldiHead_89
+  - first:
+      213: 5410697994148250236
+    second: BaldiHead_90
+  - first:
+      213: 6881280732275504761
+    second: BaldiHead_91
+  - first:
+      213: 2741089478420614929
+    second: BaldiHead_92
+  - first:
+      213: -4002361725136935819
+    second: BaldiHead_93
+  - first:
+      213: 6853548435580073818
+    second: BaldiHead_94
+  - first:
+      213: -6994674737855422921
+    second: BaldiHead_95
+  - first:
+      213: 8008043212040193580
+    second: BaldiHead_96
+  - first:
+      213: 7345052379861461512
+    second: BaldiHead_97
+  - first:
+      213: -1187615060092073121
+    second: BaldiHead_98
+  - first:
+      213: 8313034640169749690
+    second: BaldiHead_99
+  - first:
+      213: 9093688079617073793
+    second: BaldiHead_100
+  - first:
+      213: 8257285206571257360
+    second: BaldiHead_101
+  - first:
+      213: -7694448471798865924
+    second: BaldiHead_102
+  - first:
+      213: -2799387164207972639
+    second: BaldiHead_103
+  - first:
+      213: -4499731604297011326
+    second: BaldiHead_104
+  - first:
+      213: 8862066652857724333
+    second: BaldiHead_105
+  - first:
+      213: -3713828223394257896
+    second: BaldiHead_106
+  - first:
+      213: 2928340337784506102
+    second: BaldiHead_107
+  - first:
+      213: -5806731914525160903
+    second: BaldiHead_108
+  - first:
+      213: 8048306542782927349
+    second: BaldiHead_109
+  - first:
+      213: -6197720815232078457
+    second: BaldiHead_110
+  - first:
+      213: 3911078316687208307
+    second: BaldiHead_111
+  - first:
+      213: -4023875693988397646
+    second: BaldiHead_112
+  - first:
+      213: -7910252382695180138
+    second: BaldiHead_113
+  - first:
+      213: 6519327497012107200
+    second: BaldiHead_114
+  - first:
+      213: -5002827984301085221
+    second: BaldiHead_115
+  - first:
+      213: -8421493880752864884
+    second: BaldiHead_116
+  - first:
+      213: -2948897591207108001
+    second: BaldiHead_117
+  - first:
+      213: -8892245910897549032
+    second: BaldiHead_118
+  - first:
+      213: 8023055465602842107
+    second: BaldiHead_119
+  - first:
+      213: -7771542002041453924
+    second: BaldiHead_120
+  - first:
+      213: 6159940756489459750
+    second: BaldiHead_121
+  - first:
+      213: -5820990594772617981
+    second: BaldiHead_122
+  - first:
+      213: 1291427253539014735
+    second: BaldiHead_123
+  - first:
+      213: -2400821476396413173
+    second: BaldiHead_124
+  - first:
+      213: -6074831056983010502
+    second: BaldiHead_125
+  - first:
+      213: -9102265182703107751
+    second: BaldiHead_126
+  - first:
+      213: 8329528965557336072
+    second: BaldiHead_127
+  - first:
+      213: 30598009039348746
+    second: BaldiHead_128
+  - first:
+      213: -6900343912200523696
+    second: BaldiHead_129
+  - first:
+      213: -8009548959138912046
+    second: BaldiHead_130
+  - first:
+      213: -7093202095127638828
+    second: BaldiHead_131
+  - first:
+      213: -4255596557514660488
+    second: BaldiHead_132
+  - first:
+      213: 692976915849207731
+    second: BaldiHead_133
+  - first:
+      213: 6670970930895663277
+    second: BaldiHead_134
+  - first:
+      213: -4263851807897193840
+    second: BaldiHead_135
+  - first:
+      213: -6313311802861274470
+    second: BaldiHead_136
+  - first:
+      213: -8944861973841696570
+    second: BaldiHead_137
+  - first:
+      213: -8537294262833666845
+    second: BaldiHead_138
+  - first:
+      213: 384631011523353479
+    second: BaldiHead_139
+  - first:
+      213: 3263367124144727602
+    second: BaldiHead_140
+  - first:
+      213: -3621220236468163948
+    second: BaldiHead_141
+  - first:
+      213: -4786523607891678715
+    second: BaldiHead_142
+  - first:
+      213: -3560877926389474092
+    second: BaldiHead_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaldiHead_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1433
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2ef838006d6c90800000000000000
+      internalID: -7174973042899144924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1433
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d6d84b17017a4d0800000000000000
+      internalID: -3123509736011633294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1433
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e5f305b8c4bd60800000000000000
+      internalID: 7905163925723145926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1433
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5726df83c6ca00800000000000000
+      internalID: 776523008308633318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1433
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe70fee6a8a02b0800000000000000
+      internalID: -5617525376129962110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1433
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3271128358f66d0800000000000000
+      internalID: -2995028751058263047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1433
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f93e7d11d54bf0800000000000000
+      internalID: -340636272194619012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1433
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef628fb1da812a0800000000000000
+      internalID: -6766468104485142848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1433
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9d658236df7f70800000000000000
+      internalID: 9187297277334362842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1433
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5483b90ec2819c9b0800000000000000
+      internalID: -5059486125348145083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1433
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d77e59f98c6670800000000000000
+      internalID: 8533347098085021233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_11
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1433
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3d8f1b5ef43480800000000000000
+      internalID: -8920225294589281123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1303
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309171b85f35c900800000000000000
+      internalID: 704038566920032308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1303
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234d65f066cf775f0800000000000000
+      internalID: -758860496914426830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1303
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930db3024e4cc690800000000000000
+      internalID: -7580598027333860461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1303
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec108d9b8a137da0800000000000000
+      internalID: -5948381495881098011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1303
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74c396a09f02a040800000000000000
+      internalID: 4657302078598923386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1303
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85371aae46c1f56c0800000000000000
+      internalID: -4152569111653551272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_18
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1303
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1c7b740e18e5920800000000000000
+      internalID: 2980962803641729440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1303
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f62355ed997a40800000000000000
+      internalID: 5366494039256789301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_20
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1303
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129dde2ea7109f10800000000000000
+      internalID: 2274343848700121619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_21
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1303
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5bc124865710c90800000000000000
+      internalID: -7205348838169856539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_22
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1303
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4194a76c9d1713840800000000000000
+      internalID: 5202064224741378324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_23
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1303
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b8603db895213a0800000000000000
+      internalID: -6696191238870758593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1173
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1b86960bbf0100800000000000000
+      internalID: 76485355658485075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1173
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7da16757308a7b0800000000000000
+      internalID: -5212912765653821511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1173
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898f41ba0c574f820800000000000000
+      internalID: 2951113126198966424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1173
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5f17cbd76fb5b0800000000000000
+      internalID: -5350443638656639102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1173
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02bb40a49dfdef0800000000000000
+      internalID: -81107356339199821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1173
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f20600f2f5aaa0800000000000000
+      internalID: -6150242603397613390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_30
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1173
+        width: 91
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1778a61b70f521d00800000000000000
+      internalID: 941919758719813489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_31
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1173
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c181ac433abac70800000000000000
+      internalID: 8983453328844790937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_32
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1173
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd64ccc06f469100800000000000000
+      internalID: 114366117715406270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_33
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1173
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1f85ec30fff700800000000000000
+      internalID: 576443421666778468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_34
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1173
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15954ce72c3f48060800000000000000
+      internalID: 6954951741242890577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_35
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1173
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61390badff3f29ef0800000000000000
+      internalID: -102751561264884970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1043
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7e51632417ff00800000000000000
+      internalID: 1150410372006443906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1043
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e37515059af03c80800000000000000
+      internalID: -8344894591575165984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1043
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afcd646b2e86110800000000000000
+      internalID: 1254501768723495549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1043
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e2039db15be500800000000000000
+      internalID: 426524464373752193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1043
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513775d3536f27b0800000000000000
+      internalID: -5246865829148544688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1043
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4fd7595d79b4270800000000000000
+      internalID: 8235843287168971971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1043
+        width: 91
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a0bc20364d3eb80800000000000000
+      internalID: -8366610161010537945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_43
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1043
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb08cf71f094420800000000000000
+      internalID: 2614637654360242945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_44
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1043
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63365da14effd580800000000000000
+      internalID: -8800035588824222870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_45
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1043
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98bdde71b8009d0800000000000000
+      internalID: -2810093232588092997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_46
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1043
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55893c2688eca37a0800000000000000
+      internalID: -6396573235558508459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_47
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1043
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a27f24df3af2610800000000000000
+      internalID: 1598676700885363298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 915
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc39150529ca030800000000000000
+      internalID: 3507339083478454051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 915
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19595b1756afd6f0800000000000000
+      internalID: -657624127521597158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 915
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a0dc82b534fac40800000000000000
+      internalID: 5525709326612498984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 915
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8d8ed99a8e6ac0800000000000000
+      internalID: -3859995437141487788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_52
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 915
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043fa7ebdfffdf9e0800000000000000
+      internalID: -1585830028477009088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 915
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ecd2ea7eb1bbc60800000000000000
+      internalID: 7834886658614742538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 915
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3431281732c8730800000000000000
+      internalID: 4002613139246105547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_55
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 915
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ed68ab6eaae070800000000000000
+      internalID: 8136507454208731113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_56
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 915
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9238f83b495790800000000000000
+      internalID: -7540913393000866931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_57
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 915
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a740857cdf16ec20800000000000000
+      internalID: 3235308414036887458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 915
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a34b4b8117afdc0800000000000000
+      internalID: -3604444200831796596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_59
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 915
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436d579b74e0c340800000000000000
+      internalID: 4882153215541207877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 785
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f2bc7e3baa8c30800000000000000
+      internalID: 4362487473930170856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 785
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62e4d2ecab4b3f0800000000000000
+      internalID: -885877831999019322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 785
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f347f172ca64c0800000000000000
+      internalID: -4293405500008826530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 785
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c93fc1122aaa1f0800000000000000
+      internalID: -1032834901424759668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_64
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 785
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c00c56c7f7c6a5e0800000000000000
+      internalID: -1898610325891317565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_65
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 785
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6629b5d7e2454e80800000000000000
+      internalID: -8195070383440189846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 785
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ecde5e9235432b0800000000000000
+      internalID: -5605764196753093107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_67
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 785
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdc085c92d5e58b0800000000000000
+      internalID: -5161585688931414585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_68
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 785
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74bb242ef709c3f0800000000000000
+      internalID: -880163464064289670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_69
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 785
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2e2250049867c0800000000000000
+      internalID: -4077846733484315526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_70
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 785
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c08cb3d6e2ba40800000000000000
+      internalID: 5382618301736207433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_71
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 785
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad04790de532c60800000000000000
+      internalID: 7792176030264908501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 655
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843035e7058c3b750800000000000000
+      internalID: 6319614950173246280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 655
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21321fa7ca3153920800000000000000
+      internalID: 2969301160838636306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_74
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 655
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c57de851c031f0800000000000000
+      internalID: -1067140524001606025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_75
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 655
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e483f0b00b9c70800000000000000
+      internalID: 8978771042093032090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_76
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 655
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9db9d637bc7ab0800000000000000
+      internalID: -5008927239333635171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_77
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 655
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773080f6676f00940800000000000000
+      internalID: 5260475353298109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_78
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 655
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b83e53dd36353300800000000000000
+      internalID: 231150595046521010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_79
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 655
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb7f3ea93901ee0800000000000000
+      internalID: -1292370799596422114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_80
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 655
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237254004bf5afaf0800000000000000
+      internalID: -361871593346619598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_81
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 655
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a661ae7e5111cf40800000000000000
+      internalID: 5746893697050568359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_82
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 655
+        width: 106
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbff6f45689e0f70800000000000000
+      internalID: 9155422653382654943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_83
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 655
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8fe374ee7e9ac0800000000000000
+      internalID: -3846497512065103345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 525
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9263cf64534b195e0800000000000000
+      internalID: -1904543026483808727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 525
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be3f9c0a46b8f270800000000000000
+      internalID: 8284571943703625397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 525
+        width: 105
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed4fff8986f2150800000000000000
+      internalID: 5850009447316119068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 525
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb079c781481cf000800000000000000
+      internalID: 70958363861151934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_88
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 525
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed208c9e815febc0800000000000000
+      internalID: -3751690291623481874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_89
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 525
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3cc53485663520800000000000000
+      internalID: 2681442246658374879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_90
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 525
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7200289829a61b40800000000000000
+      internalID: 5410697994148250236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_91
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 525
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976750f0e583f7f50800000000000000
+      internalID: 6881280732275504761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_92
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 525
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f42d29b5e4a0620800000000000000
+      internalID: 2741089478420614929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_93
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 525
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e7966731c478c0800000000000000
+      internalID: -4002361725136935819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_94
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 525
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573fa19df1bc1f50800000000000000
+      internalID: 6853548435580073818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_95
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 525
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9ab2a26cedee90800000000000000
+      internalID: -6994674737855422921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_96
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 395
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2642a77fd8422f60800000000000000
+      internalID: 8008043212040193580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 395
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa746493edee560800000000000000
+      internalID: 7345052379861461512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_98
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 394
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bce45256eb48fe0800000000000000
+      internalID: -1187615060092073121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_99
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 394
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc5dcf5f4dd5370800000000000000
+      internalID: 8313034640169749690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_100
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 394
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a7c3c025433e70800000000000000
+      internalID: 9093688079617073793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_101
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 394
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e84ca7525c79270800000000000000
+      internalID: 8257285206571257360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_102
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 394
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff91efb1e3d73590800000000000000
+      internalID: -7694448471798865924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_103
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 394
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7898b4349629d0800000000000000
+      internalID: -2799387164207972639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_104
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 394
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f274d42fdbd81c0800000000000000
+      internalID: -4499731604297011326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_105
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 395
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6b63eaa26cfa70800000000000000
+      internalID: 8862066652857724333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_106
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 395
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e3c358e4d57cc0800000000000000
+      internalID: -3713828223394257896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_107
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 396
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c71fa50e83a820800000000000000
+      internalID: 2928340337784506102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 266
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acdc0d6185a6fa0800000000000000
+      internalID: -5806731914525160903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 266
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1570ea82451bf60800000000000000
+      internalID: 8048306542782927349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_110
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 265
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2c0761c54df9a0800000000000000
+      internalID: -6197720815232078457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_111
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 265
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fafdad101f64630800000000000000
+      internalID: 3911078316687208307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_112
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 264
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3e7f20625828c0800000000000000
+      internalID: -4023875693988397646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_113
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 264
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69834c54e53293290800000000000000
+      internalID: -7910252382695180138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_114
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 264
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d7d151dd497a50800000000000000
+      internalID: 6519327497012107200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_115
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 264
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdda9535472629ab0800000000000000
+      internalID: -5002827984301085221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_116
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 264
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8189973fe7d02b80800000000000000
+      internalID: -8421493880752864884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_117
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 264
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526815c3496317d0800000000000000
+      internalID: -2948897591207108001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_118
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 264
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81128890575689480800000000000000
+      internalID: -8892245910897549032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_119
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 265
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7380207e975f60800000000000000
+      internalID: 8023055465602842107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 135
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928a4b79bfe52490800000000000000
+      internalID: -7771542002041453924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_121
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62851043b718c7550800000000000000
+      internalID: 6159940756489459750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_122
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 137
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30530bd15efa73fa0800000000000000
+      internalID: -5820990594772617981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_123
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 138
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48837cae321ce110800000000000000
+      internalID: 1291427253539014735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_124
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 139
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f434a56919eaed0800000000000000
+      internalID: -2400821476396413173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_125
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 141
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33540ae65dd1bba0800000000000000
+      internalID: -6074831056983010502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_126
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 142
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951439dca024ea180800000000000000
+      internalID: -9102265182703107751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_127
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 144
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083f52667e689370800000000000000
+      internalID: 8329528965557336072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_128
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 145
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ef932ab4bc6000800000000000000
+      internalID: 30598009039348746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_129
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 146
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050324d75cd0d30a0800000000000000
+      internalID: -6900343912200523696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_130
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 147
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ec6778ad58d090800000000000000
+      internalID: -8009548959138912046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_131
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 146
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4cdf9642ef8d90800000000000000
+      internalID: -7093202095127638828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_132
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a6f16a7511f4c0800000000000000
+      internalID: -4255596557514660488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_133
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfdcba55d2fd9900800000000000000
+      internalID: 692976915849207731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_134
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 17
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da03ef2a7bc049c50800000000000000
+      internalID: 6670970930895663277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_135
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 16
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092716f1f51c3d4c0800000000000000
+      internalID: -4263851807897193840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_136
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3c2a5d5c9268a0800000000000000
+      internalID: -6313311802861274470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_137
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 14
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8244c3d677dd380800000000000000
+      internalID: -8944861973841696570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_138
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 12
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a1d8b910758980800000000000000
+      internalID: -8537294262833666845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_139
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 11
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bd27bfddb765500800000000000000
+      internalID: 384631011523353479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_140
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 9
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a55efb1fc94d20800000000000000
+      internalID: 3263367124144727602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_141
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 8
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aebd78167debdc0800000000000000
+      internalID: -3621220236468163948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_142
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 7
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6892832ad29db0800000000000000
+      internalID: -4786523607891678715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldiHead_143
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 6
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc960d6468359ec0800000000000000
+      internalID: -3560877926389474092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66e9b4b6afdaa624796398be591ca414
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

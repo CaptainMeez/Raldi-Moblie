@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIText
+  m_TableCollectionNameGuidString: 13af3f0d03f73734aa904ca4cc46db31
+  m_Entries:
+  - m_Id: 66237718528
+    m_Key: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 670024556544
+    m_Key: PlayButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1364563550208
+    m_Key: CreditsButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1383190454272
+    m_Key: OptionsButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1941343264768
+    m_Key: CustomizeButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3082139426816
+    m_Key: LogIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13066455492026368
+    m_Key: Achievements
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675718463540

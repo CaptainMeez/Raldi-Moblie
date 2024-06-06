@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 7022f0ccd05ab14419f7b1247d127ad7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4216571452325965036
+    second: HeWasAtTheFiesta_0
+  - first:
+      213: 922759991870167387
+    second: HeWasAtTheFiesta_1
+  - first:
+      213: 5700529033054127002
+    second: HeWasAtTheFiesta_2
+  - first:
+      213: 727759285116787328
+    second: HeWasAtTheFiesta_3
+  - first:
+      213: -9220826626338452037
+    second: HeWasAtTheFiesta_4
+  - first:
+      213: -2281623709901486447
+    second: HeWasAtTheFiesta_5
+  - first:
+      213: -4478135183380925314
+    second: HeWasAtTheFiesta_6
+  - first:
+      213: -2918942036352322531
+    second: HeWasAtTheFiesta_7
+  - first:
+      213: 3852010885236874698
+    second: HeWasAtTheFiesta_8
+  - first:
+      213: -6361076987461551814
+    second: HeWasAtTheFiesta_9
+  - first:
+      213: 8723452657997892258
+    second: HeWasAtTheFiesta_10
+  - first:
+      213: -6850046947595272371
+    second: HeWasAtTheFiesta_11
+  - first:
+      213: 1498232645338479312
+    second: HeWasAtTheFiesta_12
+  - first:
+      213: -2302362414614676039
+    second: HeWasAtTheFiesta_13
+  - first:
+      213: 3657974013382111827
+    second: HeWasAtTheFiesta_14
+  - first:
+      213: 5853154999168642696
+    second: HeWasAtTheFiesta_15
+  - first:
+      213: -4113719400094268033
+    second: HeWasAtTheFiesta_16
+  - first:
+      213: -1112650668029534386
+    second: HeWasAtTheFiesta_17
+  - first:
+      213: -7289983402250631044
+    second: HeWasAtTheFiesta_18
+  - first:
+      213: -7669606602968601980
+    second: HeWasAtTheFiesta_19
+  - first:
+      213: 544556645718235134
+    second: HeWasAtTheFiesta_20
+  - first:
+      213: -7249936348834036880
+    second: HeWasAtTheFiesta_21
+  - first:
+      213: -5166373826669857777
+    second: HeWasAtTheFiesta_22
+  - first:
+      213: 1636215860209738122
+    second: HeWasAtTheFiesta_23
+  - first:
+      213: -7357234802881085990
+    second: HeWasAtTheFiesta_24
+  - first:
+      213: -8875114115832734057
+    second: HeWasAtTheFiesta_25
+  - first:
+      213: 288229146447885160
+    second: HeWasAtTheFiesta_26
+  - first:
+      213: -2495660538727334726
+    second: HeWasAtTheFiesta_27
+  - first:
+      213: 1662072400938069594
+    second: HeWasAtTheFiesta_28
+  - first:
+      213: -2003892521343780403
+    second: HeWasAtTheFiesta_29
+  - first:
+      213: -8397678580617343218
+    second: HeWasAtTheFiesta_30
+  - first:
+      213: -5851374992992500636
+    second: HeWasAtTheFiesta_31
+  - first:
+      213: -8534209929575585949
+    second: HeWasAtTheFiesta_32
+  - first:
+      213: 2414666454788979701
+    second: HeWasAtTheFiesta_33
+  - first:
+      213: -1013758812283691025
+    second: HeWasAtTheFiesta_34
+  - first:
+      213: 6838723322999243409
+    second: HeWasAtTheFiesta_35
+  - first:
+      213: 6178931226888478679
+    second: HeWasAtTheFiesta_36
+  - first:
+      213: -9092203760930172033
+    second: HeWasAtTheFiesta_37
+  - first:
+      213: -5643314815809514928
+    second: HeWasAtTheFiesta_38
+  - first:
+      213: 8926818498126671072
+    second: HeWasAtTheFiesta_39
+  - first:
+      213: 9199574070008784098
+    second: HeWasAtTheFiesta_40
+  - first:
+      213: 4780576406526058485
+    second: HeWasAtTheFiesta_41
+  - first:
+      213: -8704183962093203463
+    second: HeWasAtTheFiesta_42
+  - first:
+      213: 1762421563754514190
+    second: HeWasAtTheFiesta_43
+  - first:
+      213: -7639221900644984613
+    second: HeWasAtTheFiesta_44
+  - first:
+      213: 2392497796750730753
+    second: HeWasAtTheFiesta_45
+  - first:
+      213: -4221801520001091183
+    second: HeWasAtTheFiesta_46
+  - first:
+      213: -4250859220612595334
+    second: HeWasAtTheFiesta_47
+  - first:
+      213: -7510667143315297891
+    second: HeWasAtTheFiesta_48
+  - first:
+      213: 581439941396603171
+    second: HeWasAtTheFiesta_49
+  - first:
+      213: -3066098322570723200
+    second: HeWasAtTheFiesta_50
+  - first:
+      213: 8149252598427517896
+    second: HeWasAtTheFiesta_51
+  - first:
+      213: -2388501957925370898
+    second: HeWasAtTheFiesta_52
+  - first:
+      213: 2696429286118649204
+    second: HeWasAtTheFiesta_53
+  - first:
+      213: -365997975086979661
+    second: HeWasAtTheFiesta_54
+  - first:
+      213: 3800696407485281278
+    second: HeWasAtTheFiesta_55
+  - first:
+      213: -9040678497843816353
+    second: HeWasAtTheFiesta_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5604
+        width: 1784
+        height: 2368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec21f14565448a30800000000000000
+      internalID: 4216571452325965036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_1
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 5656
+        width: 1784
+        height: 2324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591d58d25d4ecc00800000000000000
+      internalID: 922759991870167387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_2
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 5956
+        width: 1784
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930efee3f85c1f40800000000000000
+      internalID: 5700529033054127002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_3
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 6144
+        width: 1784
+        height: 1876
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad067c635891a00800000000000000
+      internalID: 727759285116787328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3644
+        width: 1568
+        height: 1784
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b774906a5d48b0800000000000000
+      internalID: -5166373826669857777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_23
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3708
+        width: 1568
+        height: 1720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8169a3e7a105b610800000000000000
+      internalID: 1636215860209738122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_24
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3768
+        width: 1568
+        height: 1664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addb1255de9d5e990800000000000000
+      internalID: -7357234802881085990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_25
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 3832
+        width: 1568
+        height: 1600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1cb8ebb245d480800000000000000
+      internalID: -8875114115832734057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_26
+      rect:
+        serializedVersion: 2
+        x: 6364
+        y: 3784
+        width: 1568
+        height: 1648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b0ffa1eefff300800000000000000
+      internalID: 288229146447885160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1624
+        width: 1568
+        height: 1924
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff48cf9dc6843780800000000000000
+      internalID: -8704183962093203463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_43
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1340
+        width: 1568
+        height: 2204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0783141311657810800000000000000
+      internalID: 1762421563754514190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeWasAtTheFiesta_44
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1292
+        width: 1568
+        height: 2252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8dbabd7280cf590800000000000000
+      internalID: -7639221900644984613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

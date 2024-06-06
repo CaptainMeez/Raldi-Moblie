@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "hehehehaehaiwahwe",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "this is an undertale reference",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "its me snas undtlertale",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

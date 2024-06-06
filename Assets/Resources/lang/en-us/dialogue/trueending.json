@@ -1,0 +1,114 @@
+{
+  "sentences": [
+      {
+        "character": "Neil",
+        "sentence": "Well... I guess this is it.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "It's finally over... after all this time... we've done it.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "I can finally be free, and so can this world.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "....",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "You did a good job, kid.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "I probably would've never gotten myself outta this mess if it wasn't for you.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "Although i've been shitting on you pretty much this whole time, I gotta cut you some slack for givin me a chance...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "even after i almost killed ya, heh.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "...",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "Guess this is it.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "See ya on the other side.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

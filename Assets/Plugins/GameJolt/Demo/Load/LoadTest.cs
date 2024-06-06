@@ -1,0 +1,32 @@
+﻿using GameJolt.API;
+using GameJolt.UI;
+using UnityEngine;
+
+namespace GameJolt.Demo.Load {
+	public class LoadTest : MonoBehaviour {
+		public void SignInButtonClicked() {
+			GameJoltUI.Instance.ShowSignIn(signInSuccess => {
+			}, userFetchSuccess => {
+				Debug.Log(string.Format("User's Information Fetch {0}.", userFetchSuccess ? "Successful" : "Failed"));
+			});
+		}
+
+		public void SignOutButtonClicked() {
+			if(!GameJoltAPI.Instance.HasUser) {
+				GameJoltUI.Instance.QueueNotification("You're not signed in");
+			} else {
+				GameJoltAPI.Instance.CurrentUser.SignOut();
+				GameJoltUI.Instance.QueueNotification("Signed out!");
+			}
+		}
+
+		public void IsSignedInButtonClicked() {
+			if(GameJoltAPI.Instance.HasUser) {
+				GameJoltUI.Instance.QueueNotification(
+					"Signed in as " + GameJoltAPI.Instance.CurrentUser.Name);
+			} else {
+				GameJoltUI.Instance.QueueNotification("Not signed in!");
+			}
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "You remember Raldi, as he would always greet you with his wonderful singing voice.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "Although a little crazy at times, he was a good friend.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

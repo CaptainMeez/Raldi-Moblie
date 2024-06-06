@@ -1,0 +1,24 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "A key is required to open this.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "You search long and hard, but it seems this key is in another update.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

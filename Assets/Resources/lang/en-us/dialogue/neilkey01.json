@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "????",
+        "sentence": "Look kid. I know what your trying to do here. Just turn back while you can.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "????",
+        "sentence": "Just trust me.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "$neilKeysLeft$ keys left.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

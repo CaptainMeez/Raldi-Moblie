@@ -1,0 +1,14 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "The dog is not satisfied with your pets. You got nothing.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

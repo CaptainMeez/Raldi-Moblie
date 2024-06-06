@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cf2e73c1a2ff8ee48adfd5c4f432e67d
+  - enabled: 0
+    path: Assets/Scenes/Startup.unity
+    guid: 32a1db61a55fc8f48a94b6a850781245
+  - enabled: 0
+    path: Assets/Scenes/BallHintCutscene.unity
+    guid: 2afbad5e41dc44e4f9c64d21bcc2c0b2
+  - enabled: 0
+    path: Assets/Scenes/Development.unity
+    guid: a2e2a6fdad1c70648bb9b48abae9e8cd
+  - enabled: 1
+    path: Assets/Scenes/FuckinNeilMV.unity
+    guid: d62c9e60be696fe4e8ff2d832fbca922
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 3b063565ce4f371409baac2df106862b
+  - enabled: 1
+    path: Assets/Scenes/Hell.unity
+    guid: c8c47a807d78c0e47931d2973a8a521a
+  - enabled: 1
+    path: Assets/Scenes/MCEEMenu.unity
+    guid: 01cb10b716dd6fb46b0c71056da0db9b
+  - enabled: 1
+    path: Assets/Scenes/NeilHouse.unity
+    guid: 0230bbea29ff6dd41bd41a0041bf7a68
+  - enabled: 1
+    path: Assets/Scenes/NeilNewSave.unity
+    guid: fa3a2bd406bd1bf4eacb9fe0310ae448
+  - enabled: 1
+    path: Assets/Scenes/Pizza Tower Rank.unity
+    guid: 9be0f0ec8c1a8c84bb83ccfde9124a43
+  - enabled: 1
+    path: Assets/Scenes/PosterRoom.unity
+    guid: b54b53e339108a14a9cd81ba07074f51
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: bf5819ac5bf6656459e5685cd4d86bd7
+  - enabled: 0
+    path: Assets/Scenes/SaveFileSelection.unity
+    guid: 3a401f9ff85933e4092975b1366ae8eb
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: 02778db063e5ee846980944a550e48a8
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: d2cf556e0bc4e2f4296375a3be244357
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding.unity
+    guid: 634d0c81be96a1d48a7017e583dacdff
+  - enabled: 0
+    path: Assets/Scenes/Warning.unity
+    guid: 32d5bccae6fc0f246ac3457abd8a565d
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e8634ffe9842b684fa5543596a12a729,
+      type: 2}

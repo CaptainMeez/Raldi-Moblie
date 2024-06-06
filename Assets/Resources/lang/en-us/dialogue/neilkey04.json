@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "????",
+        "sentence": "Fuck... i'm really sounding desperate here... but if only you knew what was going on just behind your view...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "????",
+        "sentence": "Please. Listen to me and turn back while you can. Go any further and your fucked.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "$neilKeysLeft$ keys left.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

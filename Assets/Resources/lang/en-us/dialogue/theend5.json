@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "All of these memories flooding in at once, although happy, you feel a sense of dread that maybe you might not have made the right choice.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "But those are just thoughts, right?",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "Your free now, $WindowsName$. Go experience the world. It's all yours.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "The dog is satisfied with your pets! The price of {machine}'s has gone down {discount}!",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}
